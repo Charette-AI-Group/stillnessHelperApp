@@ -1,2 +1,5 @@
-# stillnessHelperApp
-App to help monitor stillness duration during activities, e.g., meditation, self-Inquiries, etc.
+# Stillness Helper App
+
+The purpose of this app is to provide a simple and intuitive way to track the amount of time you spend in a state of stillness while engaged in activities. The terminology and concepts used in the app are deeply influenced by the teachings of Eckhart Tolle, as shared in his [YouTube videos](https://www.youtube.com/@EckhartTolle). The app is designed to help users cultivate mindfulness and presence, core principles often emphasized in Tolle’s teachings about living in the "now" and embracing conscious awareness.
+
+This app is particularly beneficial for individuals who are beginning their journey toward spiritual awakening. As everyone has unique needs and preferences, different tools and methods resonate with different people. For those who are new to the practice of mindfulness or awakening, this app offers valuable support by helping them monitor and develop their ability to remain present. However, for someone who is already fully awakened or deeply experienced in these practices, the app may not be necessary, as they likely have internalized these principles. For beginners, though, it serves as an accessible and practical tool to guide them on their path to greater self-awareness and inner peace.
