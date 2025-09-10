@@ -1,4 +1,5 @@
 *.ps1
+*.code-workspace
 
 # Libraries
 *.lvlibp
